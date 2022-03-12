@@ -1,0 +1,7 @@
+ma\rest\demo\MockClients.class
+ma\rest\demo\Service\ClientServiceImpl.class
+ma\rest\demo\Controllers\ClientController.class
+ma\rest\demo\DAO\IClientDAO.class
+ma\rest\demo\Tp12Application.class
+ma\rest\demo\Models\Client.class
+ma\rest\demo\Service\IService.class
